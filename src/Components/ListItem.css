@@ -1,0 +1,30 @@
+.ad {
+  color: rgb(82, 8, 201);
+  font-family: "Franklin Gothic Medium";
+  font-size: 300%;
+}
+.ad1{
+  font-size: 300%;
+}
+
+.div1 {
+  padding: 30%;
+    width: 300px;
+    margin: auto;
+    background-color: #a3ffff5b;
+  }
+  button{
+    background-color: aquamarine;
+    font-size: large;
+    width: 150%;
+    
+  }
+.clickcounter{
+  font-size: 300%;
+  display: inline-table;
+  padding: auto;
+  margin: auto;
+  border: 5px dashed rgb(105, 235, 235);
+  background-color: aquamarine;
+  
+}
